@@ -1,21 +1,44 @@
-# Passive Income Tracker
+# Passive Income Tracker 💰
 
-被動收入追蹤器 - 黑色主題 Dashboard
+被動收入追蹤器 - 黑色主題 Dashboard，幫你追蹤所有被動收入來源
+
+![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC?logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## ✨ 功能特色
+
+- 🎯 **Dashboard 總覽** - 即時查看總收入、趨勢、分佈
+- 💡 **探索收入來源** - 20+ 平台資料庫（問卷、頻寬、Affiliate 等）
+- 📊 **數據視覺化** - Line Chart + Pie Chart
+- 💾 **數據持久化** - LocalStorage 自動儲存
+- 🎨 **黑色主題** - 護眼設計
+- 📅 **日期追蹤** - 記錄每筆收入時間
+- 🎯 **目標設定** - 月度目標 + 達成率
+- 💱 **多貨幣支持** - USD/HKD/CNY/EUR
+- 📥 **匯出功能** - CSV 格式備份
 
 ## 🚀 快速開始
 
-### 1. 安裝依賴
-```bash
-cd /Users/cken0218/.openclaw/workspace/passive-income-tracker
-npm install
-```
+### 方法 1: 本地運行
 
-### 2. 啟動開發服務器
 ```bash
+# Clone repo
+git clone https://github.com/YOUR_USERNAME/passive-income-tracker.git
+cd passive-income-tracker
+
+# Install dependencies
+npm install
+
+# Start dev server
 npm run dev
 ```
 
 打開 http://localhost:5173
+
+### 方法 2: 一鍵部署 Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/passive-income-tracker)
 
 ## 📊 功能
 
